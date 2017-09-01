@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/workshops/</link>
+    <description>Recent content in Workshops on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://redhatgov.io/workshops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible Tower Workshop</title>
+      <link>http://redhatgov.io/workshops/ansible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/ansible/</guid>
+      <description>Ansible workshop content goes here</description>
+    </item>
+    
+    <item>
+      <title>Ansible Tower Workshop</title>
+      <link>http://redhatgov.io/workshops/ansible_tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/ansible_tower/</guid>
+      <description>Today&amp;#8217;s Agenda   Arrivals
+  Introductions / Agenda
+  Presentation
+     Setup     Exercise 1.0 - Running Ad-hoc commands     Exercise 1.1 - Writing Your First playbook     Exercise 1.2 - Running Your Playbook     Exercise 1.3 - Using Variables, Loops, and Handlers     Exercise 1.4 - Running the apache-basic-playbook     Exercise 1.</description>
+    </item>
+    
+    <item>
+      <title>CloudForms Workshops</title>
+      <link>http://redhatgov.io/workshops/cloudforms41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/cloudforms41/</guid>
+      <description>Who should attend  Architects Developers Technical leads Operations Engineers  What you will learn  Resource usage, optimization, and capacity planning. Cloud and container fundamentals. Configuration auditing, change tracking, and drift analysis. Continuous discovery, monitoring, and tracking.  Create in the hands-on lab  Learn the basics of a CloudForms environment. Understand resource quota enforcement, cost allocation, and chargeback. Explore Role-based access control (RBAC) users. Write and run your own automation script.</description>
+    </item>
+    
+    <item>
+      <title>Container Security Workshop</title>
+      <link>http://redhatgov.io/workshops/security_containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/security_containers/</guid>
+      <description>Today&amp;#8217;s Agenda   Arrivals
+  Introductions / Agenda
+  Presentation
+     Setup     Exercise 1.0 - Intro to Cockpit     Exercise 1.1 - Reproducible and Trustworthy Dockerfiles     Exercise 1.2 - Docker `USER`     Exercise 1.3 - Remove setuid/setgid Binaries     Exercise 1.4 - CGroups     Exercise 1.</description>
+    </item>
+    
+    <item>
+      <title>Containers 101 Workshop</title>
+      <link>http://redhatgov.io/workshops/containers_101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/containers_101/</guid>
+      <description>Today&amp;#8217;s Agenda   Arrivals
+  Introductions / Agenda
+  Presentation
+     Setup     Exercise 1.0 - Install Docker     Exercise 1.1 - Pulling Docker Images     Exercise 1.2 - Working with Docker Images     Exercise 1.3 - Working with the Dockerfile     Exercise 1.4 - Working with Docker Registry     Wrapup      Before We Get Started   Overview Today is meant for anyone who has any exposure to Containers, whether you have used it or not.</description>
+    </item>
+    
+    <item>
+      <title>Example Workshop</title>
+      <link>http://redhatgov.io/workshops/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/example/</guid>
+      <description>Introduction This is an example workshop to showcase what is possible when building workshops. You can find examples of how to organize your content, what shortcodes are available, and the widgets available as a part of the redhatgov theme.
+ This workshop is also expected to be used as a starting point for any new workshop.
+Pay special attention to the lab on how to copy this workshop and what changes are required to make your workshop show up in the menus.</description>
+    </item>
+    
+    <item>
+      <title>Microservices Workshop - Strangling the Monolith</title>
+      <link>http://redhatgov.io/workshops/strangling_the_monolith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/strangling_the_monolith/</guid>
+      <description>Introduction
+Hands-on lab demonstrating the deployment of a legacy monolithic application onto a container, and then breaking it into microservices to deploy on OpenShift Container Platform.
+ Bring your laptop to participate.
+Use Guacamole through the browser or install the utilities in the prerequisites to run the workshop without Guacamole.
+ Labs   Prerequisites     Lab - Login &amp;amp; Tour of Guacamole     Lab - Login &amp;amp; Tour of OpenShift     Lab - Building and Deploying a Fast-Moving Monolith     Lab - Strangle Your Monolith     Lab - Microservice Integration Patterns   Workshop Login Info  Environment Logins  Environment Links  OpenShift Login</description>
+    </item>
+    
+    <item>
+      <title>OpenShift 101 - DC Metro Map Workshop</title>
+      <link>http://redhatgov.io/workshops/openshift_101_dcmetromap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/openshift_101_dcmetromap/</guid>
+      <description>Introduction Welcome to the workshop! This particular workshop will have you deploying with native docker images as well as using OpenShift to create docker images for a Node.js based website. You will also be leveraging the power of OpenShift to build, deploy, scale, and automate.
+If you are on-site with us, the instructor will walk you through and kick off each lab. Otherwise, if you&#39;re running this on your own, just go through the list of labs below in order (as some build off of each other).</description>
+    </item>
+    
+    <item>
+      <title>OpenShift Container Platform Workshop</title>
+      <link>http://redhatgov.io/workshops/openshift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/openshift/</guid>
+      <description>OpenShift workshop content goes here</description>
+    </item>
+    
+    <item>
+      <title>OpenShift Security Workshop</title>
+      <link>http://redhatgov.io/workshops/security_openshift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/security_openshift/</guid>
+      <description>Today&amp;#8217;s Agenda   Arrivals
+  Introductions / Agenda
+  Presentation
+     Setup     Exercise 1.0 - Linux Kernel Capabilities     Exercise 1.1 - SELinux     Exercise 1.2 - Deploy OpenShift     Exercise 1.3 - Image Streams &amp;amp; Secrets     Exercise 1.4 - Skopeo     Exercise 1.</description>
+    </item>
+    
+    <item>
+      <title>Red Hat OpenStack Platform 101</title>
+      <link>http://redhatgov.io/workshops/rhosp_101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/rhosp_101/</guid>
+      <description>Introduction This workshop on Red Hat OpenStack Platform is designed as an introduction for system administrators who are intending to implement a cloud computing environment using OpenStack. Students will learn a small taste of how to operate Red Hat OpenStack Platform. In this course will use both Horizon and the unified command-line interface.
+Workshop Login Info Each student will be assigned a number at the beginning of the workshop. This number will be used throughout the labs.</description>
+    </item>
+    
+  </channel>
+</rss>
